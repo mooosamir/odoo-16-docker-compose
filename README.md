@@ -1,4 +1,4 @@
-# Quick install
+# Quick install # BY Mohammed Samir
 
 Installing Odoo 16 with one command.
 
